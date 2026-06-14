@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" role="img" aria-labelledby="title desc">
+  <title id="title">Cloud DevOps</title>
+  <desc id="desc">Ilustrasi cloud, server, dan pipeline DevOps.</desc>
+  <rect width="960" height="560" rx="28" fill="#f8fafc"/>
+  <path fill="#dbeafe" d="M0 394c85-78 179-116 282-114 121 2 184 88 318 83 107-4 168-63 278-44 52 9 92 31 122 65v176H0V394Z"/>
+  <g fill="#fff" stroke="#2563eb" stroke-width="10">
+    <path d="M338 238c17-76 85-130 164-130 67 0 126 39 153 97 74 4 133 65 133 140 0 78-63 141-141 141H312c-78 0-141-63-141-141 0-69 49-126 114-139 27-5 53 6 53 32Z"/>
+  </g>
+  <g fill="#0f172a">
+    <rect x="300" y="296" width="160" height="36" rx="10"/>
+    <rect x="300" y="356" width="160" height="36" rx="10"/>
+    <rect x="300" y="416" width="160" height="36" rx="10"/>
+  </g>
+  <g fill="#22c55e">
+    <circle cx="430" cy="314" r="8"/>
+    <circle cx="430" cy="374" r="8"/>
+    <circle cx="430" cy="434" r="8"/>
+  </g>
+  <g fill="none" stroke="#16a34a" stroke-linecap="round" stroke-linejoin="round" stroke-width="12">
+    <path d="M548 326h114"/>
+    <path d="m630 292 40 34-40 34"/>
+    <path d="M662 414H548"/>
+    <path d="m588 380-40 34 40 34"/>
+  </g>
+  <g fill="#1d4ed8">
+    <circle cx="208" cy="120" r="24"/>
+    <circle cx="792" cy="110" r="18"/>
+    <circle cx="830" cy="452" r="22"/>
+  </g>
+</svg>

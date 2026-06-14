@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" role="img" aria-labelledby="title desc">
+  <title id="title">Sertifikat dan pembelajaran</title>
+  <desc id="desc">Ilustrasi sertifikat, lencana, dan checklist belajar.</desc>
+  <rect width="960" height="560" rx="28" fill="#ecfeff"/>
+  <rect x="150" y="92" width="560" height="372" rx="22" fill="#fff" stroke="#0891b2" stroke-width="10"/>
+  <path fill="#cffafe" d="M178 126h504v76H178z"/>
+  <path fill="#0e7490" d="M226 158h260v20H226z"/>
+  <path stroke="#334155" stroke-linecap="round" stroke-width="14" d="M232 256h350M232 306h292M232 356h220"/>
+  <circle cx="704" cy="354" r="78" fill="#f59e0b"/>
+  <circle cx="704" cy="354" r="48" fill="#fef3c7"/>
+  <path fill="#ef4444" d="m661 418-34 86 65-30 32 64 31-90-94-30Zm83-10 88 28-28 94-38-58-60 37 38-101Z"/>
+  <path fill="none" stroke="#16a34a" stroke-linecap="round" stroke-linejoin="round" stroke-width="18" d="m674 352 27 27 56-70"/>
+</svg>
