@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 640" role="img" aria-labelledby="title desc">
+  <title id="title">Foto profil ilustrasi</title>
+  <desc id="desc">Ilustrasi avatar profesional untuk halaman CV Aldi.</desc>
+  <defs>
+    <linearGradient id="bg" x1="80" x2="560" y1="60" y2="600" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1d4ed8"/>
+      <stop offset="1" stop-color="#16a34a"/>
+    </linearGradient>
+    <linearGradient id="shirt" x1="140" x2="520" y1="390" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0f172a"/>
+      <stop offset="1" stop-color="#334155"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="640" rx="42" fill="url(#bg)"/>
+  <circle cx="320" cy="245" r="118" fill="#f4c7a1"/>
+  <path fill="#1f2937" d="M209 222c8-86 65-137 150-124 67 10 110 57 116 124-36-28-72-42-108-40-65 4-104-10-138-42-18 28-28 58-30 82Z"/>
+  <path fill="#e8ae83" d="M230 270c-18 0-33 15-33 34s15 34 33 34h15v-68h-15Zm210 0h-15v68h15c18 0 33-15 33-34s-15-34-33-34Z"/>
+  <path fill="url(#shirt)" d="M117 604c18-116 99-184 203-184s185 68 203 184H117Z"/>
+  <path fill="#fff" d="m252 433 68 95 68-95c-25 18-50 27-68 27s-43-9-68-27Z"/>
+  <path fill="#0ea5e9" d="m293 533 27-40 27 40-21 71h-12l-21-71Z"/>
+  <circle cx="275" cy="262" r="10" fill="#111827"/>
+  <circle cx="365" cy="262" r="10" fill="#111827"/>
+  <path fill="none" stroke="#8b4b2c" stroke-linecap="round" stroke-width="10" d="M287 326c25 18 55 18 80 0"/>
+</svg>

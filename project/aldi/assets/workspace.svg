@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 560" role="img" aria-labelledby="title desc">
+  <title id="title">Workspace remote</title>
+  <desc id="desc">Ilustrasi meja kerja remote dengan laptop dan catatan proyek.</desc>
+  <rect width="960" height="560" rx="28" fill="#fff7ed"/>
+  <rect x="106" y="384" width="748" height="52" rx="16" fill="#92400e"/>
+  <rect x="210" y="160" width="420" height="260" rx="18" fill="#111827"/>
+  <rect x="238" y="186" width="364" height="206" rx="10" fill="#e0f2fe"/>
+  <path fill="#2563eb" d="M276 350h288v18H276z"/>
+  <path fill="#16a34a" d="M288 218h116v22H288zm0 44h220v18H288zm0 38h176v18H288z"/>
+  <rect x="650" y="196" width="132" height="190" rx="14" fill="#fef3c7" stroke="#f59e0b" stroke-width="8"/>
+  <path stroke="#92400e" stroke-linecap="round" stroke-width="10" d="M680 242h72M680 282h72M680 322h48"/>
+  <circle cx="153" cy="308" r="56" fill="#22c55e"/>
+  <path fill="#14532d" d="M134 386h38l-9-64h-20l-9 64Z"/>
+  <rect x="322" y="420" width="250" height="34" rx="12" fill="#475569"/>
+  <rect x="368" y="454" width="158" height="26" rx="10" fill="#64748b"/>
+</svg>
